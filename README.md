@@ -1,7 +1,7 @@
 <!-- 🚀 Modern Professional GitHub README Template -->
 
 <h1 align="center">👋 Hi, I'm Pasindu Induwara</h1>
-<h3 align="center">💻 2nd Year IT Undergraduate | University of Moratuwa</h3>
+<h3 align="center">💻 IT Undergraduate | University of Moratuwa</h3>
 <p align="center">
   🚀 Passionate about Technology | 💡 Future Tech Entrepreneur | 🧠 Lifelong Learner
 </p>
@@ -51,6 +51,7 @@
 | 🤖 **CrickBot** | IoT cricket bowling machine controlled via WiFi (ESP8266 + Arduino). | Arduino, ESP8266, C++ |
 | 🍳 **CookBook App** | React + ASP.NET app for recipes, live video hosting, and in-app currency "Cookies". | React, ASP.NET, SQL Server |
 | 💬 **Chat App** | Real-time chat app using WebSockets and React. | React, Node.js, Socket.IO |
+| 📒 **Student Management App** | Student Resourese and Grade Management Application. | Next.js |
 
 ---
 
@@ -66,9 +67,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pasindu@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/PasinduInduwara"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/pasindu-induwara-770711302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:k.a.pasindu2002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/pasindu-pi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
